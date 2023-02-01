@@ -18,7 +18,7 @@ In SERRA HOUSE we use PHP and MySQL database. It has two modules.
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with the name  carbonfootprint
+5. Create a database with the name  db
 
 6. Import db.sql file(given inside the zip package in config file folder)
 
