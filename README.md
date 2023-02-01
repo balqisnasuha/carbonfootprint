@@ -12,7 +12,7 @@ In SERRA HOUSE we use PHP and MySQL database. It has two modules.
 
 1. Download the project zip file
 
-2. Extract the file and copy obbs folder
+2. Extract the file and copy carbonfootprint folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
